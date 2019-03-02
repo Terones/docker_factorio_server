@@ -1,5 +1,6 @@
 # Factorio [![](https://images.microbadger.com/badges/image/dtandersen/factorio.svg)](https://microbadger.com/images/dtandersen/factorio "Get your own image badge on microbadger.com") [![Docker Pulls](https://img.shields.io/docker/pulls/dtandersen/factorio.svg)](https://hub.docker.com/r/dtandersen/factorio/) [![Docker Stars](https://img.shields.io/docker/stars/dtandersen/factorio.svg)](https://hub.docker.com/r/dtandersen/factorio/)
 
+* `experimental` [(experimental/Dockerfile)](https://github.com/dtandersen/docker_factorio_server/blob/master/experimental/Dockerfile)
 * `0.17.4`, `0.17`, `latest` [(0.17/Dockerfile)](https://github.com/dtandersen/docker_factorio_server/blob/master/0.17/Dockerfile)
 * `0.16.51`, `0.16`, `stable` [(0.16/Dockerfile)](https://github.com/dtandersen/docker_factorio_server/blob/master/0.16/Dockerfile)
 * `0.15.40`, `0.15` [(0.15/Dockerfile)](https://github.com/dtandersen/docker_factorio_server/blob/master/0.15/Dockerfile)
@@ -13,6 +14,7 @@
 * `0.x` - latest version in a branch.
 * `0.x.y` - a specific version.
 * `0.x-dev` - whatever is in master for that version.
+* `experimental` - version declared experimental on [factorio.com](https://www.factorio.com). no SHA check on the download.
 
 
 # What is Factorio?
